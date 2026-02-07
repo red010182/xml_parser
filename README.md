@@ -93,3 +93,9 @@ python3 judge.py
 ---
 
 **準備好接受挑戰了嗎？讓 AI 成為你的副駕駛，帶領這套經典引擎進入現代語言的世界吧！**
+
+
+```
+cargo install cargo-llvm-cov
+rustup component add llvm-tools-preview
+```
